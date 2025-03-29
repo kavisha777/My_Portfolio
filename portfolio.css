@@ -1,0 +1,9 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.btn-glow {
+    transition: all 0.3s ease;
+}
+.btn-glow:hover {
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.8);
+}
